@@ -3,7 +3,7 @@
 [![CI](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml)
 [![CD](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml)
 
-CircuitVerse for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API
+ Nguyen Tuan Anh for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API
 
 ## Getting Started
 
@@ -18,23 +18,6 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 - Clone this repository using `git clone https://github.com/Tanh2003/App_TechPhone_Flutter.git`.
 - `cd` into `mobile_app`.
 - `flutter pub get` to get all the dependencies.
-- Generate files using Builder Runner (**required**) 
-```
-flutter pub run build_runner build --delete-conflicting-outputs
-
-```
-> Mobile App enforces [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), make sure to read and follow them.
-
-### Running the app
-
-Make sure you have a connected Android/iOS device/simulator and run the following command to build and run the app in debug mode.
-
-`flutter run`
-
-### Android OAuth Config
-
-This project uses flutter version 1.20.2 and hence the support for compile time variables. To use compile time variables pass them in `--dart-defines` as `flutter run --dart-define=VAR_NAME=VAR_VALUE`. Supported `dart-defines` include :
-
 
 ## Main Features
 - Login / Register
