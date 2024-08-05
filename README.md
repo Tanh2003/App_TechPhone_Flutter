@@ -13,6 +13,10 @@ If you want to run the application, please contact me on Zalo at 0399121048, and
 
 Here is the Figma design for the application[here](https://www.figma.com/design/DaUHqGmrJTtzrQZ4NkVMRo/Adnroid-NC_App_%C4%90i%E1%BB%87n-Tho%E1%BA%A1i?node-id=0-1&t=FwSXPviwQM8RXsnq-1)
 
+### Youtube
+
+Instructions for use [here](https://youtu.be/C-6nFrK6ApE)
+
 ## Main Features
 - Login / Register
 - Change Password / Forgot Password
@@ -27,7 +31,8 @@ Here is the Figma design for the application[here](https://www.figma.com/design/
 - Remember Account and Logout
 ## Screenshots
 <p>
-<img src="https://user-images.githubusercontent.com/66873825/119156647-0fdb4b00-ba72-11eb-9b8f-591930ca1d85.jpg" alt="Splash View" width="200">
+ 
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/screen.jpg?raw=true" alt="Splash View" width="200">
 <img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/dangnhap.jpg?raw=true" alt="Home View" width="200">
 <img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/dangky.jpg?raw=true" alt="NavDrawer View" width="200">
 <img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/quenmatkhau.jpg?raw=true" alt="NavDrawer View Login" width="200">
