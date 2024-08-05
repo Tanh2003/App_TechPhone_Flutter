@@ -1,9 +1,9 @@
-# TechPhone Mobile
+# TechPhone Application
 
 [![CI](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml)
 [![CD](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml)
 
- Nguyen Tuan Anh for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API
+ TechPhone for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API
 
 ## Getting Started
 
@@ -16,7 +16,6 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 ### Setup Project
 
 - Clone this repository using `git clone https://github.com/Tanh2003/App_TechPhone_Flutter.git`.
-- `cd` into `mobile_app`.
 - `flutter pub get` to get all the dependencies.
 
 ## Main Features
@@ -49,18 +48,6 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 <img src="https://user-images.githubusercontent.com/66873825/119169783-0953d000-ba80-11eb-85c7-95e50e5f6aa2.jpg" alt="Profile View" width="200">
 </p>
 
-## Community
+## The End
 
-We would love to hear from you! We communicate on the following platforms:
-
-[![Slack](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://circuitverse.org/slack)
-
-## Contributing
-
-Whether you have some feauture requests/ideas, code improvements, refactoring, performance improvements, help is always Welcome. The more is done, better it gets.
-
-If you found any bugs, consider opening an [issue](https://github.com/CircuitVerse/mobile-app/issues/new).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+The project is implemented by Nguyen Tuan Anh.
