@@ -3,20 +3,15 @@
 [![CI](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml)
 [![CD](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml)
 
- TechPhone for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API
+ TechPhone for mobile is a cross platform application built in [flutter](https://flutter.dev/) using Nodejs Express API, designed exclusively for buying mobile phones. It offers a user-friendly interface, an extensive catalog of the latest models, secure transactions, and real-time notifications. TechPhone provides a seamless experience for mobile phone enthusiasts, ensuring a smooth and efficient way to explore and purchase the best phones on the market.
 
 ## Getting Started
 
-Follow these instructions to build and run the project
+If you want to run the application, please contact me on Zalo at 0399121048, and I will assist you.
 
-### Setup Flutter
+### Figma
 
-A detailed guide for multiple platforms setup could be find [here](https://flutter.dev/docs/get-started/install/)
-
-### Setup Project
-
-- Clone this repository using `git clone https://github.com/Tanh2003/App_TechPhone_Flutter.git`.
-- `flutter pub get` to get all the dependencies.
+Here is the Figma design for the application[here](https://www.figma.com/design/DaUHqGmrJTtzrQZ4NkVMRo/Adnroid-NC_App_%C4%90i%E1%BB%87n-Tho%E1%BA%A1i?node-id=0-1&t=FwSXPviwQM8RXsnq-1)
 
 ## Main Features
 - Login / Register
