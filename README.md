@@ -29,10 +29,10 @@ Here is the Figma design for the application[here](https://www.figma.com/design/
 <p>
 <img src="https://user-images.githubusercontent.com/66873825/119156647-0fdb4b00-ba72-11eb-9b8f-591930ca1d85.jpg" alt="Splash View" width="200">
 <img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/dangnhap.jpg?raw=true" alt="Home View" width="200">
-<img src="https://user-images.githubusercontent.com/66873825/119157561-eff85700-ba72-11eb-9ef9-7f039dba3dc1.jpg" alt="NavDrawer View" width="200">
-<img src="https://user-images.githubusercontent.com/66873825/119157733-1c13d800-ba73-11eb-9808-fd4513392b86.jpg" alt="NavDrawer View Login" width="200">
-<img src="https://user-images.githubusercontent.com/66873825/119168016-18d21980-ba7e-11eb-8b2f-680e4344a191.jpg" alt="Teachers View" width="200">
-<img src="https://user-images.githubusercontent.com/66873825/119168084-29828f80-ba7e-11eb-85bf-37cac4fd8807.jpg" alt="About View" width="200">
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/dangky.jpg?raw=true" alt="NavDrawer View" width="200">
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/quenmatkhau.jpg?raw=true" alt="NavDrawer View Login" width="200">
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/trangchu.jpg?raw=true" alt="Teachers View" width="200">
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/trangdanhsachsanpham.jpg?raw=true" alt="About View" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119168195-47e88b00-ba7e-11eb-83d5-8cb01fc79e1b.jpg" alt="Contribute View" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119168424-7f573780-ba7e-11eb-8153-968cfbbd34e9.jpg" alt="Groups View" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119169086-3eabee00-ba7f-11eb-81ee-954791c57893.jpg" alt="Assignment Details View" width="200">
