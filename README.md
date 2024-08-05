@@ -28,7 +28,7 @@ Here is the Figma design for the application[here](https://www.figma.com/design/
 ## Screenshots
 <p>
 <img src="https://user-images.githubusercontent.com/66873825/119156647-0fdb4b00-ba72-11eb-9b8f-591930ca1d85.jpg" alt="Splash View" width="200">
-<img src="https://user-images.githubusercontent.com/66873825/119160372-d4428000-ba75-11eb-85ba-b4713f11a582.jpg" alt="Home View" width="200">
+<img src="https://github.com/Tanh2003/host-file-anh/blob/main/Images_TechPhone/dangnhap.jpg?raw=true" alt="Home View" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119157561-eff85700-ba72-11eb-9ef9-7f039dba3dc1.jpg" alt="NavDrawer View" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119157733-1c13d800-ba73-11eb-9808-fd4513392b86.jpg" alt="NavDrawer View Login" width="200">
 <img src="https://user-images.githubusercontent.com/66873825/119168016-18d21980-ba7e-11eb-8b2f-680e4344a191.jpg" alt="Teachers View" width="200">
